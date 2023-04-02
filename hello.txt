@@ -1,2 +1,3 @@
-Crtl + S
-Alt + F4
+Crtl + S // 저장
+Ctrl + ~ // 터미널 열기
+// 터미널 창에서 Ctrl + S 를 눌렀을 때 Ctrl + C + Enter 를 눌러서 품
