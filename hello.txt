@@ -3,4 +3,4 @@ Ctrl + ~ // 터미널 열기
 // 터미널 창에서 Ctrl + S 를 눌렀을 때 Ctrl + C + Enter 를 눌러서 품
 git init : 디렉토리를 깃에서 관리
 스테이지에 더하기
-git add 파일명asdasd
+git add 파일명asdasdㅁㄴㅇㅁㄴㅇㄹkuyjhghghthgbfbhg
