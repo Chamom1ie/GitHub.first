@@ -1,0 +1,2 @@
+Crtl + S
+Alt + F4
